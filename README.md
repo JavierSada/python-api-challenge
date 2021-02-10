@@ -1,6 +1,4 @@
-# Python API Challenge :octocat: :computer:
-
-## the Weather Like?
+# Python API Challenge :beach_umbrella:
 
 ## Background
 
